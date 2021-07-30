@@ -1,0 +1,4 @@
+id,date,pn,latitude,longtitude,ts_url
+2901801.0,2021-07-27 07:11:56,37.0,38.297,130.44,http://argo.nims.go.kr/data/float_text_view1.php?sel=1&wmo_id=2901801&cycle_number=037&dir_list=kma&mode=R
+2901799.0,2021-07-27 08:07:16,125.0,35.247,125.135,http://argo.nims.go.kr/data/float_text_view1.php?sel=1&wmo_id=2901799&cycle_number=125&dir_list=kma&mode=R
+2901795.0,2021-07-24 07:25:31,92.0,38.153,129.308,http://argo.nims.go.kr/data/float_text_view1.php?sel=1&wmo_id=2901795&cycle_number=092&dir_list=kma&mode=R
